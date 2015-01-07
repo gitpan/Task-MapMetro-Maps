@@ -4,7 +4,7 @@
       "Erik Carlsson <info@code301.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.029, Dist::Iller version 0.1002, CPAN::Meta::Converter version 2.143240",
+   "generated_by" : "Dist::Zilla version 5.029, CPAN::Meta::Converter version 2.143240",
    "license" : [
       "perl_5"
    ],
@@ -45,6 +45,9 @@
             "Map::Metro::Plugin::Map::Athens" : "0",
             "Map::Metro::Plugin::Map::Barcelona" : "0",
             "Map::Metro::Plugin::Map::Berlin" : "0",
+            "Map::Metro::Plugin::Map::Bilbao" : "0",
+            "Map::Metro::Plugin::Map::Brescia" : "0",
+            "Map::Metro::Plugin::Map::Brussels" : "0",
             "Map::Metro::Plugin::Map::Copenhagen" : "0",
             "Map::Metro::Plugin::Map::Gothenburg" : "0",
             "Map::Metro::Plugin::Map::Helsinki" : "0",
@@ -65,13 +68,13 @@
       "bugtracker" : {
          "web" : "https://github.com/Csson/p5-Task-MapMetro-Maps/issues"
       },
-      "homepage" : "https://github.com/Csson/p5-Task-MapMetro-Maps",
+      "homepage" : "https://metacpan.org/release/Task-MapMetro-Maps",
       "repository" : {
          "type" : "git",
          "url" : "https://github.com/Csson/p5-Task-MapMetro-Maps.git",
          "web" : "https://github.com/Csson/p5-Task-MapMetro-Maps"
       }
    },
-   "version" : "0.1000"
+   "version" : "0.1100"
 }
 

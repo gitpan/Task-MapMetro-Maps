@@ -5,6 +5,7 @@ LICENSE
 MANIFEST
 META.json
 META.yml
+README
 cpanfile
 dist.ini
 lib/Task/MapMetro/Maps.pm
@@ -13,4 +14,5 @@ t/author-eol.t
 t/author-no-tabs.t
 t/basic.t
 t/placeholder.t
+t/release-kwalitee.t
 t/release-pod-syntax.t

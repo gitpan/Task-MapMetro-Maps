@@ -1,6 +1,9 @@
+use strict;
+use warnings;
+
 package Task::MapMetro::Maps;
 
-our $VERSION = '0.1000'; # VERSION
+our $VERSION = '0.1100'; # VERSION
 
 1;
 
@@ -18,7 +21,7 @@ Task::MapMetro::Maps - All Map::Metro maps
 
 =head1 VERSION
 
-version 0.1000
+version 0.1100
 
 =head1 SYNOPSIS
 
@@ -39,6 +42,12 @@ version 0.1000
 =head3 L<Map::Metro::Plugin::Map::Barcelona>
 
 =head3 L<Map::Metro::Plugin::Map::Berlin>
+
+=head3 L<Map::Metro::Plugin::Map::Bilbao>
+
+=head3 L<Map::Metro::Plugin::Map::Brescia>
+
+=head3 L<Map::Metro::Plugin::Map::Brussels>
 
 =head3 L<Map::Metro::Plugin::Map::Copenhagen>
 
